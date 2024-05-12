@@ -1,4 +1,4 @@
-### Hi there 👋
+### <img src="https://giphy.com/gifs/viralhog-viral-hog-kitten-fascinated-by-the-text-its-typing-gwjociZExlDqAJWXgO" width ="100"><img/> Hi!
 
 <!--
 **BnjmStd/BnjmStd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
